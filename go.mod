@@ -1,4 +1,4 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/bominic27644/portfolio-website
 
 go 1.21
 
