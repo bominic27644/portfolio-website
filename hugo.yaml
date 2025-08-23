@@ -1,7 +1,7 @@
 baseURL: https://bominicm.me
 
 languageCode: bn
-title: "John's Blog"
+title: "Dominic's portfolio"
 
 # Use Hugo modules to add theme
 module:
