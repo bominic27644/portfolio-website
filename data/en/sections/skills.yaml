@@ -27,22 +27,30 @@ buttons:
 skills:
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Basic knowledge of docker, including building basic containers and running containers via docker compose."
   categories: ["container"]
   url: "https://www.docker.com/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Using on servers and occasionally on virtual machines. Capable of writing bash/shell scripts."
   categories: ["others"]
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development. Mostly, use Github."
   categories: ["basic"]
   url: "https://git-scm.com/"
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Know basic C/C++ programming."
+  categories: ["basic", "language"]
+
+- name: Python
+  summary: "Experienced with writing Python programs, including concurrent ones."
+  categories: ["basic", "language"]
+
+- name: PHP
+  summary: "Wrote basic PHP web applications that connect to databases."
   categories: ["basic", "language"]
