@@ -48,9 +48,11 @@ skills:
   categories: ["basic", "language"]
 
 - name: Python
+  logo: /images/sections/skills/python.png
   summary: "Experienced with writing Python programs, including concurrent ones."
   categories: ["basic", "language"]
 
 - name: PHP
+  logo: /images/sections/skills/php.png
   summary: "Wrote basic PHP web applications that connect to databases."
   categories: ["basic", "language"]
