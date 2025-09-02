@@ -19,14 +19,14 @@ section:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: ''
+summary: 'Graduate from Florida State University who is looking for a job in Software Engineering and development.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "dominicmartinez833@gmail.com"
+#- name: Email
+#  icon: "fas fa-envelope"
+#  url: ""
 
 - name: Github
   icon: "fab fa-github"
@@ -38,9 +38,9 @@ socialLinks:
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
-resourceLinks:
-- title: "My Resume"
-  url: "files/resume.pdf"
+#resourceLinks:
+#- title: "My Resume"
+#  url: "files/resume.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
