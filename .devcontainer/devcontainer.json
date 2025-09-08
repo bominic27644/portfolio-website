@@ -25,7 +25,8 @@
 		"vscode": {
 			"extensions": [
 				"DavidAnson.vscode-markdownlint",
-				"eamodio.gitlens"
+				"eamodio.gitlens",
+				"GitHub.vscode-github-actions"
 			]
 		}
 	},
