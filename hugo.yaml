@@ -1,6 +1,6 @@
 baseURL: https://dominicm.me
 
-languageCode: bn
+languageCode: en
 title: "Dominic's portfolio"
 
 # Use Hugo modules to add theme
