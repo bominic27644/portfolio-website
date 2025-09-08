@@ -9,6 +9,9 @@ on:
 jobs:
   deploy-to-gh-pages:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # to allow gh-pages deployment
+      pages: write
     steps:
     # checkout to the commit that has been pushed
     - uses: actions/checkout@v5
