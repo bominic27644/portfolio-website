@@ -49,4 +49,5 @@ jobs:
         with:
           base: main
           title: Update theme
+          assignees: bominic27644
           labels: automerge
