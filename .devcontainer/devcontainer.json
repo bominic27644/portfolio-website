@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/debian
 {
-	"name": "Debian",
+	"name": "Portfollio website",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/base:bookworm",
 	"features": {
@@ -29,7 +29,7 @@
 				"GitHub.vscode-github-actions"
 			]
 		}
-	},
+	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
